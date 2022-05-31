@@ -1,7 +1,8 @@
-import sumar from "./sumador.js";
+//import sumar from "./sumador.js";
 
-describe("Sumar", () => {
-  it("deberia sumar dos numeros", () => {
-    expect(sumar(3, 2)).toEqual(5);
+describe("Prueba ventas", () => {
+  it("El monto efectivo deberia restar el monto efectivo (0,0)", () => {
+    expect(restar(0, 0)).toEqual(0);
   });
 });
+//comentario para probar el npm install y git
