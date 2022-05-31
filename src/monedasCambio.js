@@ -1,6 +1,5 @@
-
 function Cambio(a)
 {
-    return 0;
+    return a;
 }
 export default Cambio;
