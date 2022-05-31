@@ -1,4 +1,4 @@
-//import sumar from "./sumador.js";
+import restar from "./sumador.js";
 
 describe("Prueba ventas", () => {
   it("El monto efectivo deberia restar el monto efectivo (0,0)", () => {
